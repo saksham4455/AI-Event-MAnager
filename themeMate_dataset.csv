@@ -1,0 +1,101 @@
+Event Type,Theme,Attendees,Estimated Cost (INR),Decor Items,Menu Items,Location,Predicted Success Score
+Wedding,Royal Elegance,663,84196,"Chandelier, Golden Drapes","Gulab Jamun, Butter Naan",Delhi,0.77
+Wedding,Royal Elegance,291,77314,"Golden Drapes, Chandelier","Gulab Jamun, Butter Naan",Chennai,0.77
+Birthday,Retro Party,1306,92926,"Neon Lights, Cassette Decor","Fries, Cupcakes",Delhi,0.94
+Birthday,Unicorn Fantasy,789,46793,"Rainbow Cake, Glitter Table","Cupcakes, Fries",Delhi,0.54
+Wedding,Garden Dream,1040,160568,"Fairy Lights, Outdoor Tent","Gulab Jamun, Butter Naan",Hyderabad,0.74
+Sports,Team Colors,242,32012,"Flags, Jersey Drapes","Burger, Soda",Bangalore,0.76
+Corporate,Blue & White,1401,238657,"White Flowers, Blue Drapes","Brownies, Mocktails",Bangalore,0.81
+Wedding,Garden Dream,1400,64862,"Fairy Lights, Outdoor Tent","Butter Naan, Gulab Jamun",Mumbai,0.86
+Sports,Team Colors,764,240948,"Flags, Jersey Drapes","Soda, Ice Cream",Delhi,0.93
+Corporate,Modern Tech,532,168682,"LED Panels, Digital Banner","Mocktails, Brownies",Bangalore,0.96
+Birthday,Retro Party,385,84651,"Cassette Decor, Disco Ball","Cupcakes, Fries",Chennai,0.92
+Corporate,Modern Tech,383,153569,"LED Panels, Podium","Brownies, Canapés",Delhi,0.85
+Cultural,Ethnic Vibe,230,120864,"Flower Strings, Carved Wood Decor","Samosa, Thali",Hyderabad,0.81
+Wedding,Garden Dream,1199,216838,"Fairy Lights, Outdoor Tent","Butter Naan, Paneer Tikka",Bangalore,0.78
+Cultural,Traditional Glow,639,151225,"Clay Lamps, Folk Artwork","Samosa, Thali",Chennai,0.93
+Birthday,Retro Party,430,161394,"Neon Lights, Cassette Decor","Fries, Pizza",Chennai,0.99
+Wedding,Minimalist Chic,729,82770,"White Drapes, Simple Centerpieces","Gulab Jamun, Butter Naan",Chennai,0.72
+Wedding,Garden Dream,357,53657,"Fairy Lights, Outdoor Tent","Gulab Jamun, Butter Naan",Chennai,0.9
+Birthday,Space Adventure,511,206895,"Rocket Cutouts, Blue Lighting","Pizza, Cupcakes",Bangalore,0.79
+Birthday,Unicorn Fantasy,792,25514,"Glitter Table, Pastel Balloons","Pizza, Cupcakes",Mumbai,0.74
+Wedding,Royal Elegance,238,28234,"Chandelier, Golden Drapes","Butter Naan, Gulab Jamun",Delhi,0.84
+Birthday,Space Adventure,370,209622,"Blue Lighting, Rocket Cutouts","Pizza, Fries",Chennai,0.98
+Cultural,Traditional Glow,293,45409,"Folk Artwork, Brass Vases","Kheer, Thali",Bangalore,0.76
+Wedding,Royal Elegance,924,210896,"Golden Drapes, Chandelier","Paneer Tikka, Butter Naan",Delhi,0.8
+Birthday,Retro Party,475,93018,"Cassette Decor, Neon Lights","Pizza, Cupcakes",Delhi,0.84
+Wedding,Royal Elegance,440,126539,"Floral Arch, Golden Drapes","Paneer Tikka, Butter Naan",Mumbai,0.85
+Wedding,Minimalist Chic,643,225539,"Candles, Simple Centerpieces","Paneer Tikka, Gulab Jamun",Bangalore,0.94
+Corporate,Modern Tech,219,171828,"Podium, Digital Banner","Canapés, Brownies",Delhi,0.92
+Sports,Stadium Setup,1129,243535,"Seating Zones, Mini Goal Post","Burger, Ice Cream",Delhi,0.86
+Sports,Team Colors,1482,245920,"Jersey Drapes, Flags","Ice Cream, Burger",Delhi,0.77
+Sports,Team Colors,958,192326,"Team Banners, Jersey Drapes","Burger, Soda",Chennai,0.88
+Birthday,Retro Party,910,54308,"Cassette Decor, Disco Ball","Pizza, Cupcakes",Bangalore,0.9
+Cultural,Ethnic Vibe,1253,46209,"Flower Strings, Carved Wood Decor","Thali, Kheer",Mumbai,0.53
+Wedding,Royal Elegance,856,94707,"Chandelier, Floral Arch","Gulab Jamun, Paneer Tikka",Chennai,0.75
+Sports,Stadium Setup,1458,47154,"Turf Carpet, Mini Goal Post","Burger, Ice Cream",Mumbai,0.88
+Corporate,Blue & White,1338,75215,"Stage Lights, White Flowers","Brownies, Mocktails",Mumbai,0.92
+Corporate,Modern Tech,289,186273,"LED Panels, Podium","Mocktails, Canapés",Bangalore,0.83
+Corporate,Modern Tech,1004,164619,"LED Panels, Podium","Canapés, Brownies",Chennai,0.91
+Sports,Team Colors,856,172701,"Flags, Jersey Drapes","Soda, Ice Cream",Hyderabad,0.87
+Wedding,Minimalist Chic,530,198799,"Candles, Simple Centerpieces","Gulab Jamun, Paneer Tikka",Delhi,0.77
+Birthday,Unicorn Fantasy,462,128080,"Rainbow Cake, Pastel Balloons","Fries, Pizza",Bangalore,0.71
+Wedding,Minimalist Chic,179,245075,"Candles, Simple Centerpieces","Butter Naan, Paneer Tikka",Mumbai,0.84
+Birthday,Unicorn Fantasy,1451,70627,"Pastel Balloons, Rainbow Cake","Fries, Cupcakes",Bangalore,0.82
+Sports,Stadium Setup,156,50236,"Mini Goal Post, Turf Carpet","Burger, Ice Cream",Bangalore,0.96
+Sports,Stadium Setup,807,210983,"Seating Zones, Mini Goal Post","Soda, Burger",Hyderabad,0.94
+Corporate,Modern Tech,993,20443,"Podium, LED Panels","Mocktails, Brownies",Chennai,0.71
+Wedding,Garden Dream,776,183356,"Green Arch, Outdoor Tent","Gulab Jamun, Butter Naan",Delhi,0.79
+Cultural,Festive Lights,924,202769,"Colorful Lanterns, Fabric Canopy","Samosa, Kheer",Mumbai,0.79
+Birthday,Space Adventure,1265,98892,"Rocket Cutouts, Blue Lighting","Pizza, Fries",Delhi,0.82
+Sports,Champion’s Podium,1440,104475,"LED Stage, Trophy Stand","Ice Cream, Soda",Hyderabad,0.84
+Birthday,Space Adventure,273,94392,"Rocket Cutouts, Glow Stars","Pizza, Fries",Chennai,0.85
+Birthday,Unicorn Fantasy,401,26402,"Glitter Table, Pastel Balloons","Fries, Cupcakes",Hyderabad,0.52
+Sports,Team Colors,886,149598,"Jersey Drapes, Flags","Burger, Soda",Mumbai,0.82
+Birthday,Unicorn Fantasy,1160,141778,"Pastel Balloons, Rainbow Cake","Pizza, Fries",Mumbai,0.72
+Sports,Champion’s Podium,1319,103177,"LED Stage, Photo Booth","Ice Cream, Soda",Hyderabad,0.99
+Birthday,Space Adventure,1072,137983,"Blue Lighting, Rocket Cutouts","Cupcakes, Fries",Mumbai,0.78
+Birthday,Retro Party,1000,40311,"Cassette Decor, Disco Ball","Fries, Pizza",Mumbai,0.79
+Birthday,Unicorn Fantasy,573,120410,"Pastel Balloons, Rainbow Cake","Fries, Cupcakes",Mumbai,0.91
+Sports,Stadium Setup,951,36322,"Turf Carpet, Mini Goal Post","Ice Cream, Soda",Hyderabad,0.58
+Cultural,Traditional Glow,820,98279,"Brass Vases, Clay Lamps","Kheer, Thali",Hyderabad,0.93
+Corporate,Blue & White,1094,27608,"Stage Lights, Blue Drapes","Mocktails, Canapés",Hyderabad,0.66
+Sports,Champion’s Podium,155,123290,"Trophy Stand, Photo Booth","Burger, Soda",Delhi,0.88
+Birthday,Unicorn Fantasy,632,119379,"Rainbow Cake, Glitter Table","Fries, Cupcakes",Hyderabad,0.8
+Cultural,Festive Lights,267,143288,"Colorful Lanterns, Fabric Canopy","Thali, Samosa",Chennai,0.71
+Wedding,Royal Elegance,606,72261,"Golden Drapes, Chandelier","Paneer Tikka, Butter Naan",Chennai,0.95
+Wedding,Garden Dream,546,141905,"Fairy Lights, Green Arch","Paneer Tikka, Butter Naan",Bangalore,0.91
+Wedding,Garden Dream,152,101777,"Outdoor Tent, Fairy Lights","Paneer Tikka, Gulab Jamun",Hyderabad,0.87
+Wedding,Garden Dream,717,242899,"Green Arch, Fairy Lights","Butter Naan, Gulab Jamun",Delhi,0.91
+Corporate,Modern Tech,1136,189749,"Digital Banner, LED Panels","Mocktails, Brownies",Hyderabad,0.8
+Cultural,Ethnic Vibe,413,134160,"Flower Strings, Carved Wood Decor","Samosa, Kheer",Chennai,0.75
+Cultural,Festive Lights,1313,90358,"Colorful Lanterns, Fabric Canopy","Kheer, Thali",Mumbai,0.8
+Cultural,Ethnic Vibe,1349,195161,"Carved Wood Decor, Flower Strings","Thali, Kheer",Delhi,0.81
+Birthday,Retro Party,629,109217,"Disco Ball, Cassette Decor","Cupcakes, Pizza",Chennai,0.78
+Sports,Team Colors,275,83270,"Jersey Drapes, Flags","Ice Cream, Soda",Hyderabad,0.92
+Cultural,Festive Lights,135,44393,"Ethnic Drapes, Colorful Lanterns","Kheer, Samosa",Hyderabad,0.62
+Cultural,Ethnic Vibe,1187,110113,"Carved Wood Decor, Flower Strings","Samosa, Kheer",Chennai,0.83
+Corporate,Blue & White,614,80434,"White Flowers, Blue Drapes","Brownies, Canapés",Mumbai,0.74
+Birthday,Unicorn Fantasy,1091,92482,"Glitter Table, Rainbow Cake","Pizza, Cupcakes",Chennai,0.92
+Corporate,Modern Tech,839,67039,"LED Panels, Digital Banner","Canapés, Brownies",Chennai,0.79
+Sports,Stadium Setup,358,187213,"Mini Goal Post, Seating Zones","Ice Cream, Soda",Hyderabad,0.96
+Cultural,Festive Lights,1002,109314,"Fabric Canopy, Ethnic Drapes","Thali, Samosa",Delhi,0.76
+Cultural,Festive Lights,251,171262,"Colorful Lanterns, Ethnic Drapes","Samosa, Kheer",Delhi,0.89
+Wedding,Royal Elegance,342,166295,"Chandelier, Golden Drapes","Gulab Jamun, Butter Naan",Chennai,0.93
+Cultural,Festive Lights,708,245487,"Fabric Canopy, Colorful Lanterns","Samosa, Thali",Hyderabad,0.88
+Birthday,Space Adventure,532,89375,"Glow Stars, Blue Lighting","Cupcakes, Pizza",Mumbai,0.9
+Birthday,Unicorn Fantasy,936,138096,"Rainbow Cake, Pastel Balloons","Pizza, Fries",Hyderabad,0.91
+Corporate,Innovation Hub,1029,38659,"Tech Booths, AR Setup","Mocktails, Canapés",Bangalore,0.77
+Sports,Team Colors,1426,59056,"Flags, Jersey Drapes","Burger, Soda",Mumbai,0.97
+Sports,Champion’s Podium,1265,95657,"LED Stage, Photo Booth","Ice Cream, Soda",Hyderabad,0.83
+Corporate,Innovation Hub,1205,149445,"AR Setup, Logo Projection","Brownies, Mocktails",Chennai,0.83
+Sports,Stadium Setup,152,43940,"Seating Zones, Mini Goal Post","Ice Cream, Soda",Chennai,0.59
+Sports,Team Colors,458,143338,"Team Banners, Flags","Ice Cream, Soda",Hyderabad,0.86
+Cultural,Traditional Glow,1062,111215,"Brass Vases, Clay Lamps","Thali, Kheer",Bangalore,0.82
+Cultural,Ethnic Vibe,1114,95554,"Flower Strings, Rangoli","Kheer, Thali",Hyderabad,0.9
+Corporate,Blue & White,762,50388,"Stage Lights, Blue Drapes","Brownies, Mocktails",Hyderabad,0.99
+Cultural,Traditional Glow,484,155905,"Brass Vases, Folk Artwork","Thali, Samosa",Hyderabad,0.81
+Corporate,Innovation Hub,368,95505,"AR Setup, Tech Booths","Brownies, Canapés",Hyderabad,0.83
+Birthday,Retro Party,1228,23584,"Neon Lights, Disco Ball","Fries, Pizza",Delhi,0.72
+Birthday,Retro Party,697,153397,"Cassette Decor, Disco Ball","Pizza, Fries",Hyderabad,0.91
+Sports,Team Colors,885,69967,"Jersey Drapes, Flags","Burger, Soda",Chennai,0.98
